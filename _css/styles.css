@@ -1,0 +1,18 @@
+body {
+  background-color: #777;
+}
+
+h1 {
+  color: red;
+}
+
+p {
+  text-align: center;
+  font-size: 1em;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
+
